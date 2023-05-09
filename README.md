@@ -5,6 +5,7 @@
 
 #### Face filters
 > Apply 3D and Plain Textural Filters to User's Face using AR Face Tracking
+
 <img src="/Assets/images/facefilter.gif" width="200px">
 
 #### Room Decorations
